@@ -1,0 +1,238 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "gallery": "Galerie",
+    "about": "À Propos",
+    "contact": "Contact",
+    "requestQuote": "Demander un Devis"
+  },
+  "hero": {
+    "title": "Nettoyage de Luxe",
+    "subtitle": "pour Ceux qui Exigent le Meilleur",
+    "description": "Nous offrons des services de nettoyage exclusifs pour les résidences prestigieuses, les yachts, les jets privés et les boutiques de luxe. La perfection dans chaque détail.",
+    "requestQuote": "Demander un Devis",
+    "discoverServices": "Découvrir les Services",
+    "exclusive": "Pas pour tous. Seulement pour quelques-uns."
+  },
+  "about": {
+    "title": "À Propos",
+    "description1": "Pulizie Per Ricchi est né de la passion pour l'excellence et du désir d'offrir un service sans compromis. Nous croyons profondément que le nettoyage est un art, pas seulement un travail.",
+    "description2": "Notre philosophie est basée sur trois principes fondamentaux : perfection, discrétion et personnalisation. Chaque résidence de luxe mérite un traitement exclusif, calibré selon ses caractéristiques uniques et les préférences du propriétaire.",
+    "motto": "Pulizie per Ricchi, c'est ça : Pas pour tous. Seulement pour quelques-uns.",
+    "description3": "À partir de ce moment, nous avons révolutionné notre philosophie d'entreprise, en nous spécialisant dans les services de nettoyage de haut niveau pour une clientèle sélectionnée. Notre approche a changé, en nous concentrant exclusivement sur une qualité sans compromis et un service personnalisé qui répond aux besoins les plus exclusifs.",
+    "learnMore": "En Savoir Plus"
+  },
+  "services": {
+    "title": "Nos Services Exclusifs",
+    "description": "Nous offrons une gamme complète de services de nettoyage haut de gamme, conçus pour une clientèle qui exige uniquement l'excellence.",
+    "luxuryVillas": {
+      "title": "Villas de Luxe",
+      "description": "Services de nettoyage professionnels pour villas et résidences prestigieuses, avec une attention particulière aux matériaux fins et aux meubles de valeur.",
+      "features": [
+        "Traitements spécifiques pour les marbres précieux, les bois anciens et les tissus délicats",
+        "Nettoyage en profondeur des lustres en cristal et des œuvres d'art",
+        "Entretien des piscines et des espaces extérieurs",
+        "Traitement et soin des sols en marbre, parquet et pierres naturelles",
+        "Services sur mesure pour les résidences secondaires et les maisons de vacances"
+      ]
+    },
+    "yachts": {
+      "title": "Yachts et Bateaux",
+      "description": "Services dédiés au nettoyage et à l'entretien des yachts et bateaux de luxe, avec des solutions spécifiques pour contrer les effets du sel marin.",
+      "features": [
+        "Nettoyage et polissage des ponts en teck et des surfaces externes",
+        "Traitement anti-moisissure et anti-usure pour les tissus et le cuir",
+        "Polissage de l'acier et des métaux contre la corrosion marine",
+        "Assainissement complet des cabines et des espaces communs",
+        "Services avant et après la saison de navigation"
+      ]
+    },
+    "jets": {
+      "title": "Jets Privés",
+      "description": "Services de nettoyage spécialisés pour les jets privés, avec des protocoles dédiés et des produits spécifiques pour les surfaces aéronautiques.",
+      "features": [
+        "Nettoyage et désinfection des cabines et cockpits",
+        "Traitement spécial pour le cuir, l'alcantara et les tissus haut de gamme",
+        "Polissage des surfaces en bois précieux et en métal",
+        "Purification des systèmes de ventilation",
+        "Services avant et après vol disponibles 24/7"
+      ]
+    },
+    "events": {
+      "title": "Événements Exclusifs",
+      "description": "Pour les événements de gala, les mariages de luxe, les premières et les occasions spéciales, nous offrons des services de nettoyage avant et après l'événement avec discrétion et rapidité.",
+      "features": [
+        "Préparation et mise en place des lieux avant l'événement",
+        "Service de nettoyage discret pendant les événements",
+        "Intervention rapide après l'événement pour la restauration des lieux",
+        "Gestion des déchets et élimination éco-durable",
+        "Coordination avec les fournisseurs de l'événement"
+      ]
+    },
+    "maintenance": {
+      "title": "Maintenance Programmée",
+      "description": "Programmes hebdomadaires ou mensuels adaptés aux environnements prestigieux. Continuité de service et qualité garantie dans le temps pour nos clients.",
+      "features": [
+        "Plan de maintenance personnalisé selon les besoins",
+        "Personnel dédié spécifiquement formé pour votre propriété",
+        "Rapports périodiques sur l'état des surfaces et des matériaux",
+        "Interventions programmées pour minimiser l'impact sur votre routine",
+        "Accès aux services extraordinaires avec priorité absolue"
+      ]
+    },
+    "custom": {
+      "title": "Services Personnalisés",
+      "description": "Chaque client est unique. Notre intervention l'est aussi. Solutions exclusives pour des besoins spécifiques et des demandes particulières.",
+      "features": [
+        "Consultation personnalisée pour des besoins spécifiques",
+        "Développement de protocoles de nettoyage sur mesure",
+        "Formation du personnel sur les produits et techniques requis",
+        "Flexibilité totale dans les horaires et les méthodes d'intervention",
+        "Gestion complète des demandes extraordinaires"
+      ]
+    },
+    "learnMore": "En Savoir Plus",
+    "exploreAll": "Explorer Tous les Services",
+    "customService": "Service Sur Mesure Pour Vous",
+    "customServiceDescription": "Vous n'avez pas trouvé exactement ce que vous cherchiez ? Contactez-nous pour discuter de vos besoins spécifiques et créer un service personnalisé qui répond parfaitement à vos exigences.",
+    "contactNow": "Contactez-Nous Maintenant"
+  },
+  "testimonials": {
+    "title": "Ce que Disent Nos Clients",
+    "testimonial1": {
+      "content": "Je n'aurais jamais imaginé qu'un nettoyage puisse transformer aussi radicalement ma villa. L'équipe de Pulizie Per Ricchi a dépassé toutes les attentes, en prêtant attention à des détails dont je ne connaissais même pas l'existence.",
+      "author": "Marco Albertini",
+      "role": "Propriétaire de Villa à Portofino"
+    },
+    "testimonial2": {
+      "content": "Après des années d'insatisfaction avec divers services de nettoyage, j'ai enfin trouvé quelqu'un capable de gérer mon yacht. Leur expertise technique et leur soin des matériaux précieux sont inégalés.",
+      "author": "Giulia Montalto",
+      "role": "Propriétaire de Yacht à Sanremo"
+    },
+    "testimonial3": {
+      "content": "Le service après-événement à mon mariage était impeccable. En quelques heures, ils ont restauré le lieu comme si la fête n'avait jamais eu lieu. Discrétion et professionnalisme au plus haut niveau.",
+      "author": "Alessandro et Francesca Rizzo",
+      "role": "Mariés - Événements Exclusifs"
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "faq1": {
+      "question": "Quels sont les avantages d'un service de nettoyage professionnel de luxe ?",
+      "answer": "Un service de nettoyage professionnel de luxe offre de nombreux avantages : personnel hautement qualifié et sélectionné, produits et techniques de nettoyage de haute qualité, attention méticuleuse aux détails, protocoles personnalisés pour chaque type de matériau et de surface, discrétion maximale et flexibilité dans la planification. La différence entre un service standard et un service de luxe est évidente dès la première intervention."
+    },
+    "faq2": {
+      "question": "Comment se déroule la première inspection ?",
+      "answer": "La première inspection est gratuite et se déroule de manière discrète et professionnelle. L'un de nos consultants visitera votre propriété pour évaluer ses caractéristiques, les matériaux présents et vos besoins spécifiques. Par la suite, nous préparerons un devis détaillé et un plan d'intervention personnalisé. La discrétion est garantie par un accord de confidentialité que nous signons avant chaque inspection."
+    },
+    "faq3": {
+      "question": "Quels produits utilisez-vous pour le nettoyage ?",
+      "answer": "Nous utilisons exclusivement des produits de haute qualité, sélectionnés pour leurs excellentes performances et leur impact environnemental minimal. Pour les surfaces délicates comme les marbres précieux, les bois anciens ou les tissus de luxe, nous employons des produits spécifiques et des techniques appropriées. Sur demande, nous pouvons utiliser des produits biologiques ou hypoallergéniques, et nous fournissons toujours la fiche technique complète des produits utilisés."
+    },
+    "faq4": {
+      "question": "Est-il possible de demander des services supplémentaires ?",
+      "answer": "Absolument. En plus des services de nettoyage standard, nous offrons une large gamme de services supplémentaires : assainissement professionnel, traitements anti-moisissure, nettoyage d'œuvres d'art et d'antiquités, nettoyage de tapis de valeur, traitements pour sols en marbre ou en bois précieux, et bien plus encore. Chaque service supplémentaire est effectué par du personnel spécialisé avec une expertise spécifique dans le secteur."
+    },
+    "faq5": {
+      "question": "Comment garantissez-vous la sécurité et la confidentialité ?",
+      "answer": "La sécurité et la confidentialité de nos clients sont des priorités absolues. Tout notre personnel subit des contrôles rigoureux avant l'embauche et signe des accords de confidentialité. Nous utilisons des systèmes d'accès sécurisés pour les propriétés et, si nécessaire, nous pouvons opérer en l'absence des propriétaires avec des protocoles de sécurité convenus. De plus, nous ne divulguons jamais d'informations sur nos clients et les propriétés que nous gérons."
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Nous sommes à votre disposition pour vous offrir un service sur mesure",
+    "quote": {
+      "title": "Demander un Devis",
+      "description": "Nous sommes à votre disposition pour répondre à toutes vos questions et pour créer un service personnalisé en fonction de vos besoins. Remplissez le formulaire ou contactez-nous directement."
+    },
+    "phone": "Téléphone",
+    "email": "Email",
+    "form": {
+      "title": "Demander des informations ou un devis",
+      "name": "Nom",
+      "surname": "Prénom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "service": "Service d'intérêt",
+      "message": "Message",
+      "privacy": "J'ai lu et j'accepte la Politique de Confidentialité",
+      "submit": "Envoyer la Demande"
+    },
+    "serviceOptions": {
+      "placeholder": "Sélectionnez un service",
+      "villas": "Villas et résidences privées",
+      "showroom": "Showrooms et boutiques",
+      "events": "Événements de gala",
+      "yachts": "Yachts et jets privés",
+      "sanification": "Assainissement professionnel",
+      "maintenance": "Maintenance régulière",
+      "custom": "Service personnalisé"
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Quelques-uns de nos projets les plus exclusifs",
+    "joinGallery": {
+      "title": "Vous voulez faire partie de notre galerie ?",
+      "description": "Contactez-nous pour un service personnalisé et transformez votre propriété avec notre service de nettoyage de luxe. La perfection dans chaque détail."
+    }
+  },
+  "aboutPage": {
+    "title": "À Propos",
+    "subtitle": "L'histoire derrière l'exclusivité de nos services de nettoyage",
+    "ourStory": {
+      "title": "Notre Histoire",
+      "description1": "Nous avions autrefois une entreprise de nettoyage « normale ». Mais souvent, les gens ne reconnaissaient pas la valeur de notre travail et de cette profession noble et humble.",
+      "description2": "Nous avons donc choisi de nous consacrer uniquement à ceux qui paient très bien et qui savent reconnaître la valeur des choses. Parce qu'avoir quelqu'un qui nettoie pour vous est un luxe. Un luxe que tout le monde ne peut pas se permettre.",
+      "motto": "Pulizie per Ricchi, c'est ça : Pas pour tous. Seulement pour quelques-uns.",
+      "description3": "À partir de ce moment, nous avons révolutionné notre philosophie d'entreprise, en nous spécialisant dans les services de nettoyage de haut niveau pour une clientèle sélectionnée. Notre approche a changé, en nous concentrant exclusivement sur une qualité sans compromis et un service personnalisé qui répond aux besoins les plus exclusifs."
+    },
+    "ourValues": {
+      "title": "Nos Valeurs",
+      "exclusivity": {
+        "title": "Exclusivité",
+        "description": "Nous nous adressons exclusivement à une clientèle qui apprécie et reconnaît la valeur de notre travail. Cela nous permet d'offrir un service sans compromis, sans limitations de temps ou de ressources."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Nous ne nous contentons jamais de la médiocrité. Chaque détail est étudié et soigné, chaque coin est traité avec la plus grande attention, en utilisant des produits et des techniques de la plus haute qualité."
+      },
+      "discretion": {
+        "title": "Discrétion",
+        "description": "Nous travaillons avec la plus grande confidentialité, en respectant la vie privée de nos clients. Notre personnel est également sélectionné en fonction de sa capacité à maintenir une discrétion maximale."
+      },
+      "reliability": {
+        "title": "Fiabilité",
+        "description": "Notre clientèle sait qu'elle peut compter sur nous dans toutes les situations. Nous respectons toujours les délais convenus et nous sommes en mesure d'intervenir même à très court préavis."
+      }
+    },
+    "ourPhilosophy": {
+      "title": "Notre Philosophie",
+      "subtitle": "Personnalisation et Attention aux Détails",
+      "description1": "Pulizie Per Ricchi est né de la passion pour l'excellence et du désir d'offrir un service sans compromis. Nous croyons profondément que le nettoyage est un art, pas seulement un travail.",
+      "description2": "Notre philosophie est basée sur trois principes fondamentaux : perfection, discrétion et personnalisation. Chaque résidence de luxe mérite un traitement exclusif, calibré selon ses caractéristiques uniques et les préférences du propriétaire.",
+      "description3": "Notre approche exclusive nous amène à limiter délibérément le nombre de clients que nous servons, afin de garantir une attention impeccable à chacun. Nous ne sommes pas pour tous, nous sommes seulement pour ceux qui veulent le meilleur, sans compromis.",
+      "cta": "Contactez-Nous pour un Service Personnalisé"
+    }
+  },
+  "footer": {
+    "seo1": {
+      "title": "Entreprise de nettoyage à Novi Ligure - Services de nettoyage professionnels",
+      "description": "Pulizie Per Ricchi offre des services de nettoyage professionnels à Novi Ligure et ses environs. Notre entreprise de nettoyage à Novi Ligure est spécialisée dans les services de nettoyage de luxe pour villas, appartements et bureaux."
+    },
+    "seo2": {
+      "title": "Entreprise de nettoyage à Serravalle Scrivia, Alessandria - Services exclusifs",
+      "description": "Pulizie Per Ricchi est une entreprise de nettoyage à Serravalle Scrivia et Alessandria qui offre des services exclusifs pour ceux qui exigent seulement le meilleur. Notre entreprise de nettoyage opère dans toute la province d'Alessandria avec professionnalisme et discrétion."
+    },
+    "description": "Services de nettoyage exclusifs pour ceux qui ne se contentent pas de la normalité. Pas pour tous, seulement pour quelques-uns.",
+    "quickLinks": "Liens Rapides",
+    "ourServices": "Nos Services",
+    "contactUs": "Contactez-Nous",
+    "copyright": "© 2025 Pulizie Per Ricchi. Tous droits réservés.",
+    "poweredBy": "propulsé par fuoridalguscio.net",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Termes et Conditions",
+    "cookies": "Politique des Cookies"
+  }
+}

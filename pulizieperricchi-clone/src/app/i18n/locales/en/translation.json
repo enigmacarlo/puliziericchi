@@ -1,0 +1,238 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "about": "About Us",
+    "contact": "Contact",
+    "requestQuote": "Request Quote"
+  },
+  "hero": {
+    "title": "Luxury Cleaning",
+    "subtitle": "for Those Who Demand the Best",
+    "description": "We offer exclusive cleaning services for prestigious residences, yachts, private jets, and luxury boutiques. Perfection in every detail.",
+    "requestQuote": "Request Quote",
+    "discoverServices": "Discover Services",
+    "exclusive": "Not for everyone. Only for a few."
+  },
+  "about": {
+    "title": "About Us",
+    "description1": "Pulizie Per Ricchi was born from the passion for excellence and the desire to offer a service without compromises. We deeply believe that cleaning is an art, not just a job.",
+    "description2": "Our philosophy is based on three fundamental principles: perfection, discretion, and customization. Every luxury residence deserves exclusive treatment, calibrated to its unique characteristics and the owner's preferences.",
+    "motto": "Pulizie per Ricchi is this: Not for everyone. Only for a few.",
+    "description3": "From that moment, we revolutionized our business philosophy, specializing in high-level cleaning services for a selected clientele. Our approach has changed, focusing exclusively on uncompromising quality and a personalized service that responds to the most exclusive needs.",
+    "learnMore": "Learn More"
+  },
+  "services": {
+    "title": "Our Exclusive Services",
+    "description": "We offer a complete range of high-class cleaning services, designed for a clientele that demands only excellence.",
+    "luxuryVillas": {
+      "title": "Luxury Villas",
+      "description": "Professional cleaning services for villas and prestigious residences, with particular attention to fine materials and valuable furnishings.",
+      "features": [
+        "Specific treatments for precious marbles, antique woods, and delicate fabrics",
+        "In-depth cleaning of crystal chandeliers and artwork",
+        "Maintenance of pools and outdoor areas",
+        "Treatment and care of marble floors, parquet, and natural stones",
+        "Tailored services for vacation homes and second homes"
+      ]
+    },
+    "yachts": {
+      "title": "Yachts and Boats",
+      "description": "Services dedicated to cleaning and maintaining luxury yachts and boats, with specific solutions to counter the effects of sea salt.",
+      "features": [
+        "Cleaning and polishing of teak decks and external surfaces",
+        "Anti-mold and anti-wear treatment for fabrics and leather",
+        "Polishing of steel and metals against marine corrosion",
+        "Complete sanitation of cabins and common areas",
+        "Pre and post sailing season services"
+      ]
+    },
+    "jets": {
+      "title": "Private Jets",
+      "description": "Specialized cleaning services for private jets, with dedicated protocols and specific products for aeronautical surfaces.",
+      "features": [
+        "Cleaning and sanitizing cabins and cockpits",
+        "Special treatment for leather, alcantara, and high-end fabrics",
+        "Polishing of fine wood and metal surfaces",
+        "Purification of ventilation systems",
+        "Pre and post flight services available 24/7"
+      ]
+    },
+    "events": {
+      "title": "Exclusive Events",
+      "description": "For gala events, luxury weddings, premieres, and special occasions, we offer pre and post-event cleaning services with discretion and speed.",
+      "features": [
+        "Preparation and setup of locations before the event",
+        "Discreet cleaning service during events",
+        "Quick post-event intervention for location restoration",
+        "Waste management and eco-sustainable disposal",
+        "Coordination with event suppliers"
+      ]
+    },
+    "maintenance": {
+      "title": "Scheduled Maintenance",
+      "description": "Weekly or monthly programs tailored for prestigious environments. Continuity of service and quality guaranteed over time for our clients.",
+      "features": [
+        "Personalized maintenance plan based on needs",
+        "Dedicated staff specifically trained for your property",
+        "Periodic reports on the condition of surfaces and materials",
+        "Scheduled interventions to minimize impact on your routine",
+        "Access to extraordinary services with absolute priority"
+      ]
+    },
+    "custom": {
+      "title": "Customized Services",
+      "description": "Each client is unique. So is our intervention. Exclusive solutions for specific needs and particular requests.",
+      "features": [
+        "Personalized consultation for specific needs",
+        "Development of tailor-made cleaning protocols",
+        "Staff training on required products and techniques",
+        "Total flexibility in schedules and intervention methods",
+        "Complete management of extraordinary requests"
+      ]
+    },
+    "learnMore": "Learn More",
+    "exploreAll": "Explore All Services",
+    "customService": "Custom Service For You",
+    "customServiceDescription": "Haven't found exactly what you're looking for? Contact us to discuss your specific needs and create a personalized service that perfectly meets your requirements.",
+    "contactNow": "Contact Us Now"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "testimonial1": {
+      "content": "I never imagined that cleaning could so radically transform my villa. The Pulizie Per Ricchi team exceeded every expectation, paying attention to details I didn't even know existed.",
+      "author": "Marco Albertini",
+      "role": "Villa Owner in Portofino"
+    },
+    "testimonial2": {
+      "content": "After years of dissatisfaction with various cleaning services, I finally found someone capable of handling my yacht. Their technical expertise and care for precious materials are unmatched.",
+      "author": "Giulia Montalto",
+      "role": "Yacht Owner in Sanremo"
+    },
+    "testimonial3": {
+      "content": "The post-event service at my wedding was impeccable. In a few hours, they restored the location as if the party had never happened. Discretion and professionalism at the highest level.",
+      "author": "Alessandro and Francesca Rizzo",
+      "role": "Newlyweds - Exclusive Events"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "faq1": {
+      "question": "What are the advantages of a professional luxury cleaning service?",
+      "answer": "A professional luxury cleaning service offers numerous advantages: highly qualified and selected personnel, high-quality cleaning products and techniques, meticulous attention to detail, personalized protocols for each type of material and surface, maximum discretion, and flexibility in scheduling. The difference between a standard service and a luxury one is evident from the first intervention."
+    },
+    "faq2": {
+      "question": "How does the first inspection happen?",
+      "answer": "The first inspection is free and takes place discreetly and professionally. One of our consultants will visit your property to assess its characteristics, the materials present, and your specific needs. Subsequently, we will prepare a detailed quote and a personalized intervention plan. Discretion is guaranteed with a confidentiality agreement that we sign before each inspection."
+    },
+    "faq3": {
+      "question": "What products do you use for cleaning?",
+      "answer": "We exclusively use high-quality products, selected for their excellent performance and minimal environmental impact. For delicate surfaces such as precious marbles, antique woods, or luxury fabrics, we employ specific products and appropriate techniques. Upon request, we can use organic or hypoallergenic products, and we always provide the complete technical data sheet of the products used."
+    },
+    "faq4": {
+      "question": "Is it possible to request additional services?",
+      "answer": "Absolutely yes. In addition to standard cleaning services, we offer a wide range of additional services: professional sanitization, anti-mold treatments, cleaning of artwork and antiques, cleaning of valuable carpets, treatments for marble or fine wood floors, and much more. Each additional service is performed by specialized personnel with specific expertise in the sector."
+    },
+    "faq5": {
+      "question": "How do you ensure security and privacy?",
+      "answer": "The security and privacy of our clients are absolute priorities. All our staff undergo rigorous checks before hiring and sign confidentiality agreements. We use secure access systems for properties and, if requested, we can operate in the absence of owners with agreed security protocols. Furthermore, we never disclose information about our clients and the properties we manage."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are at your disposal to offer you a tailored service",
+    "quote": {
+      "title": "Request a Quote",
+      "description": "We are at your disposal to answer any questions and to create a personalized service based on your needs. Fill out the form or contact us directly."
+    },
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "title": "Request information or a quote",
+      "name": "Name",
+      "surname": "Surname",
+      "email": "Email",
+      "phone": "Phone",
+      "service": "Service of interest",
+      "message": "Message",
+      "privacy": "I have read and accept the Privacy Policy",
+      "submit": "Send Request"
+    },
+    "serviceOptions": {
+      "placeholder": "Select a service",
+      "villas": "Villas and private residences",
+      "showroom": "Showrooms and boutiques",
+      "events": "Gala events",
+      "yachts": "Yachts and private jets",
+      "sanification": "Professional sanitization",
+      "maintenance": "Regular maintenance",
+      "custom": "Customized service"
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Some of our most exclusive projects",
+    "joinGallery": {
+      "title": "Want to be part of our gallery?",
+      "description": "Contact us for a personalized service and transform your property with our luxury cleaning service. Perfection in every detail."
+    }
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "subtitle": "The story behind the exclusivity of our cleaning services",
+    "ourStory": {
+      "title": "Our Story",
+      "description1": "We once had a \"normal\" cleaning company. But often people did not recognize the value of our work and of this noble and humble profession.",
+      "description2": "We therefore chose to dedicate ourselves only to those who pay very well and know how to recognize the value of things. Because having someone clean for you is a luxury. A luxury that not everyone can afford.",
+      "motto": "Pulizie per Ricchi is this: Not for everyone. Only for a few.",
+      "description3": "From that moment, we revolutionized our business philosophy, specializing in high-level cleaning services for a selected clientele. Our approach has changed, focusing exclusively on uncompromising quality and a personalized service that responds to the most exclusive needs."
+    },
+    "ourValues": {
+      "title": "Our Values",
+      "exclusivity": {
+        "title": "Exclusivity",
+        "description": "We exclusively cater to a clientele that appreciates and recognizes the value of our work. This allows us to offer a service without compromises, without limitations of time or resources."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We never settle for mediocrity. Every detail is studied and cared for, every corner is treated with the utmost attention, using products and techniques of the highest quality."
+      },
+      "discretion": {
+        "title": "Discretion",
+        "description": "We work with the utmost confidentiality, respecting the privacy of our clients. Our staff is also selected based on their ability to maintain maximum discretion."
+      },
+      "reliability": {
+        "title": "Reliability",
+        "description": "Our clientele knows they can count on us in every situation. We always respect agreed timelines and we are able to intervene even at very short notice."
+      }
+    },
+    "ourPhilosophy": {
+      "title": "Our Philosophy",
+      "subtitle": "Personalization and Attention to Detail",
+      "description1": "Pulizie Per Ricchi was born from the passion for excellence and the desire to offer a service without compromises. We deeply believe that cleaning is an art, not just a job.",
+      "description2": "Our philosophy is based on three fundamental principles: perfection, discretion, and customization. Every luxury residence deserves exclusive treatment, calibrated to its unique characteristics and the owner's preferences.",
+      "description3": "Our exclusive approach leads us to deliberately limit the number of clients we serve, to guarantee impeccable attention to each one. We are not for everyone, we are only for those who want the best, without compromises.",
+      "cta": "Contact Us for a Personalized Service"
+    }
+  },
+  "footer": {
+    "seo1": {
+      "title": "Cleaning company in Novi Ligure - Professional cleaning services",
+      "description": "Pulizie Per Ricchi offers professional cleaning services in Novi Ligure and surroundings. Our cleaning company in Novi Ligure specializes in luxury cleaning services for villas, apartments, and offices."
+    },
+    "seo2": {
+      "title": "Cleaning company in Serravalle Scrivia, Alessandria - Exclusive services",
+      "description": "Pulizie Per Ricchi is a cleaning company in Serravalle Scrivia and Alessandria that offers exclusive services for those who demand only the best. Our cleaning company operates throughout the province of Alessandria with professionalism and discretion."
+    },
+    "description": "Exclusive cleaning services for those who do not settle for normality. Not for everyone, only for a few.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "contactUs": "Contact Us",
+    "copyright": "© 2025 Pulizie Per Ricchi. All rights reserved.",
+    "poweredBy": "powered by fuoridalguscio.net",
+    "privacy": "Privacy Policy",
+    "terms": "Terms and Conditions",
+    "cookies": "Cookie Policy"
+  }
+}

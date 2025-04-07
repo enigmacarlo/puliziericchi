@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/assets/logo-COwaL7KD.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pulizie Per Ricchi | Servizi di Pulizia di Lusso | Novi Ligure</title>
+    <meta name="description" content="Servizi di pulizia esclusivi per ville di lusso, yacht, jet privati a Novi Ligure e Serravalle Scrivia. Impresa di pulizie per chi pretende solo l'eccellenza. Non per tutti, solo per pochi." />
+    <meta name="keywords" content="impresa di pulizie novi ligure, pulizie serravalle scrivia, alessandria, pulizie di lusso, pulizie ville, yacht, jet privati" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://pulizieperricchi.it/" />
+    <meta property="og:title" content="Pulizie Per Ricchi | Servizi di Pulizia di Lusso" />
+    <meta property="og:description" content="Servizi di pulizia esclusivi a Novi Ligure e Serravalle Scrivia per chi pretende solo l'eccellenza." />
+    <meta property="og:image" content="/assets/logo-COwaL7KD.png" />
+    <script type="module" crossorigin src="/assets/index-BmpFjz2S.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-B5IzWNc6.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Hargreeves';
+  src: url('/fonts/Hargreeves.otf') format('opentype'),
+       url('/fonts/Hargreeves.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 3.9%;
+    --primary: 47.6 19.2% 67.1%;  /* gold */
+    --primary-foreground: 0 0% 98%;
+    --secondary: 0 0% 6.7%; /* darkBg */
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 96.1%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 199.5 43.2% 54.9%;  /* accent blue */
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 89.8%;
+    --input: 0 0% 89.8%;
+    --ring: 47.6 19.2% 67.1%; /* gold */
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 6.7%; /* darkBg */
+    --foreground: 0 0% 98%;
+    --card: 0 0% 6.7%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 6.7%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 47.6 19.2% 67.1%; /* gold */
+    --primary-foreground: 0 0% 6.7%;
+    --secondary: 0 0% 98%;
+    --secondary-foreground: 0 0% 6.7%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 199.5 43.2% 54.9%; /* accent blue */
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 14.9%;
+    --input: 0 0% 14.9%;
+    --ring: 47.6 19.2% 67.1%; /* gold */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom classes for the website */
+.gold-gradient {
+  background: linear-gradient(90deg, #b8b19b 0%, #c9c2a9 50%, #b8b19b 100%);
+}
+
+.section-padding {
+  @apply py-16 md:py-24;
+}
+
+.heading-xl {
+  @apply font-hargreeves text-4xl md:text-5xl lg:text-6xl;
+}
+
+.heading-lg {
+  @apply font-hargreeves text-3xl md:text-4xl lg:text-5xl;
+}
+
+.heading-md {
+  @apply font-hargreeves text-2xl md:text-3xl;
+}
+
+.subtitle {
+  @apply text-lg md:text-xl text-gold mt-2;
+}
+
+.container-custom {
+  @apply container max-w-7xl mx-auto px-4 md:px-8;
+}

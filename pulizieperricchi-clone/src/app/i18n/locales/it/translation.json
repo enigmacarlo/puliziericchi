@@ -1,0 +1,269 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Servizi",
+    "gallery": "Galleria",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "requestQuote": "Richiedi Preventivo"
+  },
+  "hero": {
+    "title": "Pulizie di Lusso",
+    "subtitle": "per Chi Pretende il Meglio",
+    "description": "Offriamo servizi di pulizia esclusivi per residenze di prestigio, yacht, jet privati e boutique di lusso. La perfezione in ogni dettaglio.",
+    "requestQuote": "Richiedi Preventivo",
+    "discoverServices": "Scopri i Servizi",
+    "exclusive": "Non per tutti. Solo per pochi."
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "description1": "Pulizie Per Ricchi nasce dalla passione per l'eccellenza e dalla volontà di offrire un servizio senza compromessi. Crediamo profondamente che la pulizia sia un'arte, non un semplice lavoro.",
+    "description2": "La nostra filosofia si basa su tre principi fondamentali: perfezione, discrezione e personalizzazione. Ogni residenza di lusso merita un trattamento esclusivo, calibrato sulle sue caratteristiche uniche e le preferenze del proprietario.",
+    "motto": "Pulizie per Ricchi è questo: Non per tutti. Solo per pochi.",
+    "description3": "Da quel momento, abbiamo rivoluzionato la nostra filosofia aziendale, specializzandoci in servizi di pulizia di altissimo livello per una clientela selezionata. Il nostro approccio è cambiato, concentrandoci esclusivamente sulla qualità senza compromessi e su un servizio personalizzato che risponde alle esigenze più esclusive.",
+    "learnMore": "Scopri di Più"
+  },
+  "services": {
+    "title": "I Nostri Servizi Esclusivi",
+    "description": "Offriamo una gamma completa di servizi di pulizia di alta classe, pensati per una clientela che esige solo l'eccellenza.",
+    "luxuryVillas": {
+      "title": "Ville di Lusso",
+      "description": "Servizi di pulizia professionale per ville e residenze di prestigio, con particolare attenzione ai materiali pregiati e agli arredi di valore.",
+      "features": [
+        "Trattamenti specifici per marmi pregiati, legni antichi e tessuti delicati",
+        "Pulizia approfondita di lampadari di cristallo e opere d'arte",
+        "Manutenzione di piscine e aree esterne",
+        "Trattamento e cura di pavimenti in marmo, parquet e pietre naturali",
+        "Servizi su misura per case vacanza e seconde case"
+      ]
+    },
+    "yachts": {
+      "title": "Yacht e Barche",
+      "description": "Servizi dedicati alla pulizia e manutenzione di yacht e imbarcazioni di lusso, con soluzioni specifiche per contrastare gli effetti del sale marino.",
+      "features": [
+        "Pulizia e lucidatura di ponti in teak e superfici esterne",
+        "Trattamento antimuffa e antiusura per tessuti e pelle",
+        "Lucidatura di acciai e metalli contro la corrosione marina",
+        "Sanificazione completa di cabine e aree comuni",
+        "Servizi pre e post stagione di navigazione"
+      ]
+    },
+    "jets": {
+      "title": "Jet Privati",
+      "description": "Servizi di pulizia specializzati per jet privati, con protocolli dedicati e prodotti specifici per le superfici aeronautiche.",
+      "features": [
+        "Pulizia e sanificazione di cabine e cockpit",
+        "Trattamento speciale per pelle, alcantara e tessuti di alta gamma",
+        "Lucidatura di superfici in legno pregiato e metalli",
+        "Purificazione dei sistemi di aerazione",
+        "Servizi pre e post volo disponibili 24/7"
+      ]
+    },
+    "events": {
+      "title": "Eventi Esclusivi",
+      "description": "Per eventi di gala, matrimoni di lusso, premiere e occasioni speciali, offriamo servizi di pulizia pre e post evento con discrezione e rapidità.",
+      "features": [
+        "Preparazione e setup delle location prima dell'evento",
+        "Servizio discreto di pulizia durante gli eventi",
+        "Intervento rapido post-evento per il ripristino della location",
+        "Gestione dei rifiuti e smaltimento ecosostenibile",
+        "Coordinamento con i fornitori dell'evento"
+      ]
+    },
+    "maintenance": {
+      "title": "Manutenzione Programmata",
+      "description": "Programmi settimanali o mensili su misura per ambienti prestigiosi. Continuità di servizio e qualità garantita nel tempo per i nostri clienti.",
+      "features": [
+        "Piano di manutenzione personalizzato in base alle esigenze",
+        "Staff dedicato e formato specificamente per la tua proprietà",
+        "Report periodici sullo stato delle superfici e dei materiali",
+        "Interventi programmati per minimizzare l'impatto sulla tua routine",
+        "Accesso a servizi straordinari con priorità assoluta"
+      ]
+    },
+    "custom": {
+      "title": "Servizi Personalizzati",
+      "description": "Ogni cliente è unico. Lo è anche il nostro intervento. Soluzioni esclusive per esigenze specifiche e richieste particolari.",
+      "features": [
+        "Consulenza personalizzata per esigenze specifiche",
+        "Sviluppo di protocolli di pulizia su misura",
+        "Formazione dello staff sui prodotti e tecniche richieste",
+        "Flessibilità totale negli orari e nelle modalità di intervento",
+        "Gestione completa di richieste straordinarie"
+      ]
+    },
+    "learnMore": "Scopri di più",
+    "exploreAll": "Esplora Tutti i Servizi",
+    "customService": "Servizio Su Misura Per Te",
+    "customServiceDescription": "Non hai trovato esattamente ciò che stavi cercando? Contattaci per discutere le tue esigenze specifiche e creare un servizio personalizzato che risponda perfettamente alle tue necessità.",
+    "contactNow": "Contattaci Ora"
+  },
+  "testimonials": {
+    "title": "Cosa Dicono i Nostri Clienti",
+    "testimonial1": {
+      "content": "Non avrei mai immaginato che una pulizia potesse trasformare così radicalmente la mia villa. Il team di Pulizie Per Ricchi ha superato ogni aspettativa, prestando attenzione a dettagli che non sapevo nemmeno esistessero.",
+      "author": "Marco Albertini",
+      "role": "Proprietario Villa a Portofino"
+    },
+    "testimonial2": {
+      "content": "Dopo anni di insoddisfazione con vari servizi di pulizia, finalmente ho trovato qualcuno all'altezza del mio yacht. La loro competenza tecnica e la cura dei materiali pregiati sono impareggiabili.",
+      "author": "Giulia Montalto",
+      "role": "Proprietaria Yacht a Sanremo"
+    },
+    "testimonial3": {
+      "content": "Il servizio post-evento al mio matrimonio è stato impeccabile. In poche ore hanno ripristinato la location come se la festa non ci fosse mai stata. Discrezione e professionalità al massimo livello.",
+      "author": "Alessandro e Francesca Rizzo",
+      "role": "Sposi - Eventi Esclusivi"
+    }
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "faq1": {
+      "question": "Quali sono i vantaggi di un servizio di pulizia professionale di lusso?",
+      "answer": "Un servizio di pulizia professionale di lusso offre numerosi vantaggi: personale altamente qualificato e selezionato, prodotti e tecniche di pulizia di alta qualità, attenzione maniacale ai dettagli, protocolli personalizzati per ogni tipo di materiale e superficie, massima discrezione e flessibilità negli orari. La differenza tra un servizio standard e uno di lusso è evidente fin dal primo intervento."
+    },
+    "faq2": {
+      "question": "Come avviene il primo sopralluogo?",
+      "answer": "Il primo sopralluogo è gratuito e si svolge in modo discreto e professionale. Un nostro consulente visiterà la vostra proprietà per valutarne le caratteristiche, i materiali presenti e le vostre esigenze specifiche. In seguito, prepareremo un preventivo dettagliato e un piano di intervento personalizzato. La discrezione è garantita con un accordo di riservatezza che firmiamo prima di ogni sopralluogo."
+    },
+    "faq3": {
+      "question": "Che prodotti utilizzate per la pulizia?",
+      "answer": "Utilizziamo esclusivamente prodotti di altissima qualità, selezionati per le loro performance eccellenti e per il minimo impatto ambientale. Per superfici delicate come marmi pregiati, legni antichi o tessuti di lusso, impieghiamo prodotti specifici e tecniche appropriate. Su richiesta, possiamo utilizzare prodotti biologici o ipoallergenici, e forniamo sempre la scheda tecnica completa dei prodotti utilizzati."
+    },
+    "faq4": {
+      "question": "È possibile richiedere servizi aggiuntivi?",
+      "answer": "Assolutamente sì. Oltre ai servizi standard di pulizia, offriamo una vasta gamma di servizi aggiuntivi: sanificazione professionale, trattamenti antimuffa, pulizia di opere d'arte e oggetti di antiquariato, pulizia di tappeti pregiati, trattamenti per pavimenti di marmo o legno pregiato, e molto altro. Ogni servizio aggiuntivo viene eseguito da personale specializzato con competenze specifiche nel settore."
+    },
+    "faq5": {
+      "question": "Come garantite la sicurezza e la privacy?",
+      "answer": "La sicurezza e la privacy dei nostri clienti sono priorità assolute. Tutto il nostro personale viene sottoposto a rigorosi controlli prima dell'assunzione e firma accordi di riservatezza. Utilizziamo sistemi di accesso sicuri per le proprietà e, se richiesto, possiamo operare in assenza dei proprietari con protocolli di sicurezza concordati. Inoltre, non divulghiamo mai informazioni sui nostri clienti e sulle proprietà che gestiamo."
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Siamo a tua disposizione per offrirti un servizio su misura",
+    "quote": {
+      "title": "Richiedere un Preventivo",
+      "description": "Siamo a tua disposizione per rispondere a qualsiasi domanda e per creare un servizio personalizzato in base alle tue esigenze. Compila il modulo o contattaci direttamente."
+    },
+    "phone": "Telefono",
+    "email": "Email",
+    "form": {
+      "title": "Richiedi informazioni o preventivo",
+      "name": "Nome",
+      "surname": "Cognome",
+      "email": "Email",
+      "phone": "Telefono",
+      "service": "Servizio di interesse",
+      "message": "Messaggio",
+      "privacy": "Ho letto e accetto la Privacy Policy",
+      "submit": "Invia Richiesta",
+      "sending": "Invio in corso..."
+    },
+    "serviceOptions": {
+      "placeholder": "Seleziona un servizio",
+      "villas": "Ville e residenze private",
+      "showroom": "Showroom e boutique",
+      "events": "Eventi di gala",
+      "yachts": "Yacht e jet privati",
+      "sanification": "Sanificazione professionale",
+      "maintenance": "Manutenzione ordinaria",
+      "custom": "Servizio personalizzato"
+    }
+  },
+  "gallery": {
+    "title": "Galleria",
+    "subtitle": "Alcuni dei nostri progetti più esclusivi",
+    "joinGallery": {
+      "title": "Vuoi far parte della nostra galleria?",
+      "description": "Contattaci per un servizio personalizzato e trasforma la tua proprietà con il nostro servizio di pulizia di lusso. La perfezione in ogni dettaglio."
+    }
+  },
+  "aboutPage": {
+    "title": "Chi Siamo",
+    "subtitle": "La storia dietro l'esclusività dei nostri servizi di pulizia",
+    "ourStory": {
+      "title": "La Nostra Storia",
+      "description1": "Una volta avevamo un'impresa di pulizie \"normale\". Ma spesso la gente non riconosceva il valore del nostro lavoro e di questa nobile e umile professione.",
+      "description2": "Abbiamo quindi scelto di dedicarci solo a chi paga molto bene e sa riconoscere il valore delle cose. Perché avere qualcuno che pulisce al posto tuo è un lusso. Un lusso che non tutti possono permettersi.",
+      "motto": "Pulizie per Ricchi è questo: Non per tutti. Solo per pochi.",
+      "description3": "Da quel momento, abbiamo rivoluzionato la nostra filosofia aziendale, specializzandoci in servizi di pulizia di altissimo livello per una clientela selezionata. Il nostro approccio è cambiato, concentrandoci esclusivamente sulla qualità senza compromessi e su un servizio personalizzato che risponde alle esigenze più esclusive."
+    },
+    "ourValues": {
+      "title": "I Nostri Valori",
+      "exclusivity": {
+        "title": "Esclusività",
+        "description": "Ci rivolgiamo esclusivamente a una clientela che apprezza e riconosce il valore del nostro lavoro. Questo ci permette di offrire un servizio senza compromessi, senza limitazioni di tempo o risorse."
+      },
+      "excellence": {
+        "title": "Eccellenza",
+        "description": "Non ci accontentiamo mai della mediocrità. Ogni dettaglio è studiato e curato, ogni angolo viene trattato con la massima attenzione, utilizzando prodotti e tecniche di altissima qualità."
+      },
+      "discretion": {
+        "title": "Discrezione",
+        "description": "Lavoriamo con la massima riservatezza, rispettando la privacy dei nostri clienti. Il nostro personale è selezionato anche in base alla loro capacità di mantenere la massima discrezione."
+      },
+      "reliability": {
+        "title": "Affidabilità",
+        "description": "La nostra clientela sa di poter contare su di noi in ogni situazione. Rispettiamo sempre le tempistiche concordate e siamo in grado di intervenire anche con brevissimo preavviso."
+      }
+    },
+    "ourPhilosophy": {
+      "title": "La Nostra Filosofia",
+      "subtitle": "Personalizzazione e Attenzione al Dettaglio",
+      "description1": "Pulizie Per Ricchi nasce dalla passione per l'eccellenza e dalla volontà di offrire un servizio senza compromessi. Crediamo profondamente che la pulizia sia un'arte, non un semplice lavoro.",
+      "description2": "La nostra filosofia si basa su tre principi fondamentali: perfezione, discrezione e personalizzazione. Ogni residenza di lusso merita un trattamento esclusivo, calibrato sulle sue caratteristiche uniche e le preferenze del proprietario.",
+      "description3": "Il nostro approccio esclusivo ci porta a limitare deliberatamente il numero di clienti che serviamo, per garantire a ciascuno un'attenzione impeccabile. Non siamo per tutti, siamo solo per chi desidera il meglio, senza compromessi.",
+      "cta": "Contattaci per un Servizio Personalizzato"
+    },
+    "locations": {
+      "title": "Dove Operiamo",
+      "description": "Con sede a Novi Ligure, operiamo in tutta Italia per una clientela selezionata. Ecco le principali zone che serviamo:",
+      "areas": [
+        {
+          "name": "Novi Ligure e Serravalle Scrivia",
+          "description": "La nostra sede principale si trova a Novi Ligure, dove offriamo servizi di pulizia di lusso per ville, appartamenti di pregio e il celebre McArthur Glen Designer Outlet."
+        },
+        {
+          "name": "Milano e Lombardia",
+          "description": "Serviamo clienti esigenti nelle zone più esclusive di Milano: Brera, Porta Nuova, City Life, e nelle residenze di prestigio sul Lago di Como e in Brianza."
+        },
+        {
+          "name": "Riviera Ligure",
+          "description": "Dalla Riviera di Ponente a Portofino, offriamo servizi specializzati per yacht e ville con vista mare, garantendo discretezza e professionalità."
+        },
+        {
+          "name": "Costa Azzurra",
+          "description": "Per i nostri clienti internazionali, estendiamo i nostri servizi fino alla Costa Azzurra, intervenendo con la stessa eccellenza che ci contraddistingue in Italia."
+        },
+        {
+          "name": "Roma e Italia Centrale",
+          "description": "Serviamo clienti esclusivi nei quartieri più prestigiosi della capitale: Parioli, EUR, e le ville storiche del centro di Roma."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "seo1": {
+      "title": "Impresa di pulizie di lusso Novi Ligure, Serravalle Scrivia - McArthur Glen Outlet",
+      "description": "Pulizie Per Ricchi è l'impresa di pulizie di lusso a Novi Ligure e Serravalle Scrivia che serve clienti facoltosi con servizi esclusivi. Interveniamo presso il McArthur Glen Designer Outlet e in tutta la provincia di Alessandria per clienti esigenti che cercano l'eccellenza. Servizi specializzati per ville di lusso, attici e residenze esclusive."
+    },
+    "seo2": {
+      "title": "Servizi di pulizia per case di lusso a Milano, Portofino, Roma e Costa Azzurra",
+      "description": "La nostra impresa di pulizie di alta gamma opera nelle zone più esclusive d'Italia: Milano (Brera, City Life, Porta Nuova), Portofino, Costa Smeralda, Roma (Parioli, EUR), Lago di Como, Forte dei Marmi e Costa Azzurra. Servizi dedicati per yacht, jet privati e residenze di pregio. Pulizie riservate a una clientela d'élite che pretende solo il meglio."
+    },
+    "seo3": {
+      "title": "Pulizie di lusso per jet privati e yacht - Servizio nazionale e internazionale",
+      "description": "Offriamo servizi di pulizia esclusivi per jet privati presso gli aeroporti di Genova, Milano Linate, Milano Malpensa e Torino Caselle. Pulizie specializzate per yacht nei porti di Genova, Portofino, Sanremo, Porto Cervo e in tutta la riviera ligure. Interveniamo con discrezione e professionalità per una clientela internazionale."
+    },
+    "description": "Servizi di pulizia esclusivi per chi non si accontenta della normalità. Non per tutti, solo per pochi.",
+    "quickLinks": "Link Rapidi",
+    "ourServices": "I Nostri Servizi",
+    "contactUs": "Contattaci",
+    "copyright": "© 2025 Pulizie Per Ricchi. Tutti i diritti riservati.",
+    "poweredBy": "powered by fuoridalguscio.net",
+    "privacy": "Privacy Policy",
+    "terms": "Termini e Condizioni",
+    "cookies": "Cookie Policy"
+  }
+}
